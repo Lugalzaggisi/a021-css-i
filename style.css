@@ -1,0 +1,36 @@
+article{
+    display: block;
+    color: white;
+    width: 260px;
+    height: 55px;
+    margin: 10px;
+    border: 10px;
+    padding: 5px;
+
+}
+#bloco-1{
+    background-color:orange;
+    border: solid rgb(236, 146, 11)
+}
+#bloco-2{
+    background-color:green ;
+    border: solid rgb(130, 206, 17)
+}
+#bloco-3{
+    background-color: rgb(47, 78, 0);
+    border: dashed green;
+    
+}
+#bloco-4{
+    background-color: brown;
+    border: dashed lightcoral;
+}
+main{
+    font-family: "Helvetica";
+}
+p{
+    line-height: 0px;
+}
+h1{
+    line-height: 0px;
+}
